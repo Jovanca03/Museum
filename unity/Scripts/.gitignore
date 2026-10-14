@@ -1,0 +1,52 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local data and vector databases
+data/*
+!data/README.md
+chroma_db/
+**/chroma_db/
+*.sqlite3
+*.db
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+
+# Local IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files
+*.gguf
+*.safetensors
+*.onnx
+*.pt
+*.pth
+*.bin
+
+# Unity generated folders, if a full Unity project is copied later
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
