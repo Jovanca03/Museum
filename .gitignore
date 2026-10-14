@@ -13,10 +13,12 @@ __pycache__/
 *.pem
 *.key
 
+
 # Local data and vector databases
 data/*
-!backend/data/
-!backend/data/cakra_data.json
+!data/
+!data/Cakra_chunks.json
+!data/cakra_data.json
 !data/README.md
 chroma_db/
 **/chroma_db/

@@ -1,0 +1,410 @@
+{
+  "dataset_title": "Museum Cakraningrat — Artefak VR dan Riwayat Kehilangan",
+  "version": "1.3.0",
+  "language": "id",
+  "museum": "Museum Cakraningrat, Kabupaten Bangkalan",
+  "scope": "Prototipe VR tahap awal; tiga artefak prioritas: Gamelan Ratna Dumilah, lonceng kuno kecil yang dilaporkan hilang, dan Gamelan Se Lajing.",
+  "selected_artifacts": [
+    {
+      "artifact_id": "CAKRA_ART011",
+      "museum": "Museum Cakraningrat, Kabupaten Bangkalan",
+      "name": "Gamelan Perunggu Ki Ratna Dumilah",
+      "vr_display_name": "Gamelan Ratna Dumilah",
+      "spesifikasi_fisik": {
+        "lokasi_asal": "Aermata Ibu, Arosbaya",
+        "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+        "nomor_inventaris": "230/BKL/2008, 230A/BKL/2008, dan 230B/BKL/2008",
+        "material": "Kayu pada wadah dan perunggu pada komponen gong.",
+        "dimensi": {
+          "wadah_panjang": "207 cm",
+          "wadah_tinggi": "170 cm",
+          "diameter_gong": "64–80 cm",
+          "tinggi_gong": "13–19,5 cm"
+        },
+        "deskripsi_visual_wadah": "Wadah ditopang dua tiang berkaki tiga. Permukaan bercat biru dengan hiasan kuning emas yang memudar. Ukiran menampilkan dua naga yang saling melilit, dengan bagian kepala memakai mahkota berhias kepala Garuda. Di bagian tengah terdapat ukiran Garuda berjambul dengan sayap terkembang yang mencengkeram ular. Paruh Garuda dan mulut ular berwarna merah.",
+        "deskripsi_visual_gong": "Gong berbentuk silindris dengan permukaan agak cembung, memiliki knop di bagian tengah, dan berwarna cokelat berdasarkan deskripsi inventaris yang tersedia.",
+        "kondisi_2008": "Wadah kayu tercatat utuh. Komponen logam nomor 230B/BKL/2008 tercatat keropos dan berlubang dengan ukuran lubang sekitar 27 × 6 cm."
+      },
+      "sejarah_dan_nilai_budaya": {
+        "periode_sejarah": "Tahun 1849 M, pada masa pemerintahan Adipati Secodiningrat IV atau yang lebih dikenal sebagai Tjakraningrat VII, berdasarkan keterangan sejarah koleksi Gamelan Ratna Dumilah.",
+        "fungsi_budaya": "Gamelan Ratna Dumilah merupakan alat musik tradisional yang digunakan pada masa pemerintahan Adipati Secodiningrat IV atau Tjakraningrat VII. Berdasarkan catatan sejarah koleksi, perangkat gamelan ini digunakan untuk mengiringi penobatan pejabat keraton dan menyambut tamu agung. Keberadaannya mencerminkan nilai seni musik tradisional, tata upacara kerajaan, serta kehidupan sosial dan politik-budaya keraton Bangkalan pada abad ke-19.",
+        "nilai_pelestarian": "Koleksi memiliki nilai dokumenter melalui inskripsi, bentuk fisik, dimensi, dan riwayat inventarisnya. Dokumentasi Gamelan Ratna Dumilah penting untuk pelestarian informasi sejarah serta rekonstruksi digital, terutama karena bilah logam dari Gamelan Ratna Dumilah dilaporkan hilang."
+      },
+      "relasi_instrumen": {
+        "konsep": "Gamelan Ratna Dumilah merupakan satu kesatuan ansambel (seperangkat) alat musik tradisional yang terdiri dari instrumen gong, saron, gambang, dan peking, sebagaimana ditelusuri berdasarkan Laporan Registrasi Koleksi tahun 2008.",
+        "instrumen_yang_ditelusuri": [
+          {
+            "nama": "Saron Demung Ratna Dumilah 1",
+            "nomor_inventaris": "231/BKL/2008, 231A/BKL/2008–231G/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 127 cm; lebar 22,5 cm; tinggi 44 cm",
+            "ukuran_bilah": "Panjang 32,2–37 cm; lebar 9,5–11 cm; tebal 0,7–0,9 cm",
+            "deskripsi": "Wadah berbentuk kotak persegi panjang asimetris, kedua ujung melengkung ke atas membentuk ukel mirip perahu. Bagian tengah sisi panjang dan ujung berhias tumpal flora; kaki bagian tepi dihias flora. Wadah dicat biru dengan motif kuning emas yang memudar. Bagian atas tertutup dan memiliki lubang lingkaran sebagai resonator. Kondisi wadah utuh, tetapi ukel kaki keropos. Bilah berbentuk segi empat agak cembung, polos, dengan lubang pada kedua ujung.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari ansambel Ratna Dumilah yang kehilangan bilah."
+          },
+          {
+            "nama": "Gambang",
+            "nomor_inventaris": "232/BKL/2008, 232A/BKL/2008–232Q/BKL/2008",
+            "jumlah_bilah_tercatat": 6,
+            "catatan_jumlah": "Laporan inventaris menyebutkan bahwa seharusnya terdapat tujuh bidang nada, tetapi satu telah hilang saat pendataan tahun 2008.",
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 124 cm; lebar 32 cm; tinggi 457 cm (satuan mengikuti transkripsi sumber)",
+            "ukuran_bilah": "Panjang 29,5–48cm; lebar 4–5,1 cm; tebal 0,9–2,5 cm",
+            "deskripsi": "Gambang merupakan alat musik semacam saron dengan bidang pukul terbuat dari kayu. Sebuah gambang biasanya mempunyai 19 atau 20 bidang pukul (nada). Wadah gambang ini berbentuk segi empat asimetris. Kedua sisi lebarnya menonjol tinggi dan berhias ukiran. Keseluruhan bidang wadah, mulai dari kaki hingga tubuh, dihiasi ukiran flora. Alat ini dicat dengan warna biru dan motif warna emas yang sudah pudar. Bilah gambang berbentuk segi empat polos, berwarna cokelat tua kehitam-hitaman. Sisi lebarnya asimetris dan terdapat dua lubang sebagai tempat paku.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari ansambel Ratna Dumilah dengan semua bilahnya yang masih utuh."
+          },
+          {
+            "nama": "Peking",
+            "nomor_inventaris": "233/BKL/2008, 233A/BKL/2008–233F/BKL/2008",
+            "jumlah_bilah_tercatat": 6,
+            "catatan_jumlah": "Laporan inventaris menyebutkan bahwa seharusnya terdapat tujuh bidang nada, tetapi satu telah hilang saat pendataan tahun 2008.",
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 77,5 cm; lebar 14,5 cm; tinggi 27,5 cm (satuan mengikuti transkripsi sumber)",
+            "ukuran_bilah": "Panjang 18,6–22,5 cm; lebar 4–5 cm; tebal 1,4–2,6 cm",
+            "deskripsi": "Peking merupakan kelompok saron berukuran paling kecil dengan nada paling tinggi. Wadah berbentuk segi empat asimetris, ujung kiri-kanan atas dan ujung kaki membentuk ukel, dihiasi ukiran flora dan dicat biru. Tercatat enam bidang nada, meskipun seharusnya tujuh. Bilah berbentuk segi empat cembung dengan dua lubang pada ujungnya.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari ansambel Ratna Dumilah yang kehilangan bilah."
+          },
+          {
+            "nama": "Saron Barung Ratna Dumilah 1",
+            "nomor_inventaris": "234/BKL/2008, 234A/BKL/2008–234G/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 99 cm; lebar 16 cm; tinggi 27,5 cm",
+            "ukuran_bilah": "Panjang 23,7–27,5 cm; lebar 6,3–7,5 cm; tebal 1–1,8 cm",
+            "deskripsi": "Saron Barung berukuran sedang, lebih kecil dari demung; nadanya satu oktaf lebih tinggi dari demung dan satu oktaf lebih rendah dari peking. Wadah mirip peking tetapi lebih besar, dihiasi ukiran flora. Memiliki tujuh bidang pukul dari logam. Bilah berbentuk segi empat dan cembung, dengan dua lubang di ujung.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari ansambel Ratna Dumilah yang kehilangan bilah."
+          },
+          {
+            "nama": "Saron Barung Ratna Dumilah 2",
+            "nomor_inventaris": "236/BKL/2008, 236A/BKL/2008–236G/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 92 cm; lebar 14,5 cm; tinggi 24 cm",
+            "ukuran_bilah": "Panjang 23,3–27,5 cm; lebar 6,2–7,5 cm; tebal 1–1,7 cm",
+            "deskripsi": "Wadah memiliki motif hias mirip Saron Barung dengan nomor inventaris 234/BKL/2008 dan dicat biru. Memiliki tujuh bidang pukul dari logam perunggu. Bilah berbentuk segi empat agak cembung, dengan dua lubang untuk paku pada ujungnya.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari ansambel Ratna Dumilah yang kehilangan bilah."
+          }
+        ],
+        "perhitungan_total": {
+          "saron_demung_ratna_dumilah_1": 7,
+          "peking": 6,
+          "saron_barung_ratna_dumilah_1": 7,
+          "saron_barung_ratna_dumilah_2": 7,
+          "total_bilah_tercatat": 27
+        },
+        "status_kecocokan_jumlah": "Sesuai secara aritmetis dengan jumlah 27 bilah logam yang dilaporkan hilang pada 2025.",
+        "status_hubungan_dengan_kehilangan": "Terkonfirmasi secara wawancara bahwa bilah yang hilang berasal dari empat entri instrumen tersebut.",
+        "catatan": "Jumlah Peking yang tercatat pada 2008 sudah enam karena satu bidang nada disebut hilang sebelum pendataan. Jangan menyimpulkan bahwa kehilangan pada 2025 berasal dari empat entri ini hanya berdasarkan kecocokan jumlah."
+      },
+      "kronologi_kehilangan": {
+        "objek_hilang": "27 batang atau bilah logam dari Gamelan Ratna Dumilah.",
+        "material_objek_hilang": "Dilaporkan sebagai batang atau bilah logam kuningan dalam catatan kasus kehilangan.",
+        "jumlah_hilang": 27,
+        "tanggal_kehilangan_dilaporkan": "4 Agustus 2025.",
+        "waktu_diketahui": "Sekitar pukul 09.30 WIB pada tanggal 4 Agustus 2025. Waktu ini merujuk pada keterangan waktu pelaporan atau diketahuinya pertama kali kehilangan.",
+        "tanggal_laporan_kepolisian": "4 Agustus 2025, sebagaimana disebut dalam pemberitaan pada Oktober 2025.",
+        "lokasi": "Museum Cakraningrat, Kabupaten Bangkalan, Jawa Timur.",
+        "pengungkapan_kasus": "Kasus pencurian koleksi museum terungkap pada Oktober 2025 setelah seorang terduga pelaku ditangkap dalam penanganan kasus pencurian lain di Bangkalan.",
+        "alur_penjualan_menurut_keterangan_kasus": "Menurut catatan wawancara, barang curian dijual melalui penadah di Bangkalan dan kemudian diteruskan ke Surabaya. Nilai penjualan sebesar Rp3.000.000 disebut untuk barang curian bersama artefak lain, sehingga tidak dapat dianggap sebagai harga khusus 27 bilah Ratna Dumilah.",
+        "status_terkini": "Bilah logam dilaporkan hilang dan keberadaan akhirnya belum terkonfirmasi. Dugaan bahwa barang telah dilebur belum terkonfirmasi secara resmi berdasarkan kepolisian."
+      },
+      "aturan_penjelasan_ai": [
+        "Jika ditanya sejarah Gamelan Ratna Dumilah, jelaskan periode 1849 M sesuai keterangan sejarah koleksi yang digunakan sesuai dataset.",
+        "Jika ditanya fungsi budaya, jelaskan penggunaannya untuk mengiringi penobatan pejabat keraton dan menyambut tamu agung berdasarkan catatan sejarah koleksi sesuai dataset.",
+        "Jika ditanya jumlah komponen yang hilang, jawab 27 batang atau bilah logam sesuai dataset.",
+        "Jangan menyatakan bahwa seluruh perangkat Gamelan Ratna Dumilah hilang; informasi kehilangan merujuk pada 27 batang atau bilah logam dari instrumen saronnya sesuai dataset.",
+        "Jika ditanya apakah lonceng telah dilebur, jawab bahwa hal tersebut belum terkonfirmasi secara resmi dari kepolisian.",
+        "Jangan mengaitkan nilai Rp3.000.000 hanya dengan bilah Ratna Dumilah karena nilai tersebut disebut untuk barang curian bersama artefak lainnya.",
+        "Jika ditanya informasi tidak tersedia atau belum terverifikasi dalam dataset, nyatakan bahwa keterbatasan sumber dan jangan membuat detail baru.",
+        "Jika ditanya hubungan jumlah 27 bilah dengan inventaris saron, jelaskan bahwa empat entri berjumlah 7 + 6 + 7 + 7 = 27, dan identitas bilah yang hilang telah terkonfirmasi secara wawancara sesuai dataset."
+      ]
+    },
+    {
+      "artifact_id": "CAKRA_ART012",
+      "museum": "Museum Cakraningrat, Kabupaten Bangkalan",
+      "name": "Lonceng Kuno Peninggalan Cakraningrat II Sultan Kadirun",
+      "vr_display_name": "Susunan Lonceng Kuno Cakraningrat",
+      "profil_artefak": {
+        "kategori": "Susunan dua lonceng kuno.",
+        "deskripsi_umum": "Koleksi terdiri atas dua lonceng berukuran berbeda yang ditempatkan dalam satu susunan. Lonceng kecil digantung di bagian atas, sedangkan lonceng besar berada di bagian bawah dan berdiri di atas lantai. Berdasarkan wawancara, hanya lonceng kecil yang dilaporkan hilang pada 2025, sedangkan lonceng besar masih ada di Museum Cakraningrat.",
+        "asal_koleksi": "Aermata Ibu, Arosbaya",
+        "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+        "material": "Logam",
+        "atribusi_sejarah": "Nama koleksi mengaitkan lonceng dengan Cakraningrat II Sultan Kadirun. Keterangan mengenai fungsi lonceng untuk memanggil prajurit kerajaan dan perkiraan keterkaitannya dengan masa pemerintahan Raden Ismail mengikuti informasi yang diberikan dari website Museum Cakraningrat."
+      },
+      "sejarah_dan_nilai_budaya": {
+        "periode_sejarah": "Tahun 1870, berdasarkan inskripsi pada lonceng besar nomor inventaris 217/BKL/2008. Menurut keterangan pada website resmi Museum Cakraningrat, lonceng tersebut diperkirakan sezaman dengan masa pemerintahan Raden Ismail. Tahun 1870 dan atribusi periode ini merujuk pada lonceng besar begitu juga untuk tahun pembuatannya lonceng kecil.",
+        "fungsi_budaya": "Menurut keterangan website Museum Cakraningrat, lonceng digunakan sebagai alat untuk memanggil prajurit kerajaan. Fungsi tersebut menunjukkan peran bunyi sebagai sarana komunikasi dan koordinasi dalam lingkungan kerajaan Bangkalan. Keterangan fungsi ini mengikuti sumber museum dan belum menjelaskan secara terperinci bagaimana kedua lonceng digunakan secara bersamaan. Inskripsi bertahun 1870 memberikan nilai historis untuk kajian sejarah material, epigrafi, dan kehidupan keraton pada abad ke-19.",
+        "nilai_pelestarian": "Koleksi memiliki nilai dokumenter melalui inskripsi, bentuk fisik, dimensi, dan riwayat inventarisnya. Dokumentasi kedua lonceng penting untuk pelestarian informasi sejarah serta rekonstruksi digital, terutama karena lonceng kecil dilaporkan hilang."
+      },
+      "spesifikasi_fisik": {
+        "susunan_koleksi": "Lonceng kecil digantung di bagian atas dan lonceng besar berdiri di atas lantai bagian bawah.",
+        "lonceng_besar": {
+          "posisi": "Bagian bawah, berdiri di atas lantai.",
+          "nomor_inventaris": "217/BKL/2008",
+          "bentuk": "Silindris dengan bagian ujung melebar. Tempat gantungan pada bagian atas berbentuk menyerupai piramida dengan lubang segi empat. Bagian bahu genta dihiasi ornamen geometris yang menyerupai kelopak padma. Di bawah bahu genta terdapat inskripsi bertuliskan IENIE LONTJENG KANDJENG PANEMBAHAN POENJA: 1870.",
+          "ornamen": "Hiasan geometris menyerupai kelopak padma pada bagian bahu serta inskripsi pada badan lonceng.",
+          "inskripsi": "IENIE LONTJENG KANDJENG PANEMBAHAN POENJA: 1870",
+          "dimensi": {
+            "diameter_atas": "23 cm",
+            "diameter_bawah": "49 cm",
+            "tinggi": "51,5 cm",
+            "tebal": "2 cm"
+          },
+          "kondisi_saat_registrasi_2008": "Dicatat utuh, tetapi terdapat retakan dari bibir lonceng hingga bagian tengah.",
+          "status_keberadaan": "Masih ada didalam museum Cakraningrat berdasarkan informasi yang diberikan."
+        },
+        "lonceng_kecil": {
+          "posisi": "Bagian atas, digantung di atas lonceng besar.",
+          "nomor_inventaris": "218/BKL/2008",
+          "bentuk": "Silindris dengan bagian ujung melebar. Tempat gantungan berbentuk persegi dengan lubang berbentuk segi empat. Badan lonceng polos dengan hiasan berupa pelipit-pelipit tipis yang melingkari badan. Anak lonceng terbuat dari logam, memiliki ujung membulat, serta bagian bawah dilengkapi cincin besi sebagai tempat tali untuk menarik anak lonceng.",
+          "ornamen": "Badan lonceng polos dengan pelipit-pelipit tipis yang melingkari badan.",
+          "dimensi": {
+            "diameter_atas": "17 cm",
+            "diameter_bawah": "32,5 cm",
+            "tinggi": "33,5 cm",
+            "tebal": "1,7 cm"
+          },
+          "status_keberadaan": "Dilaporkan hilang pada Agustus 2025. Keberadaan akhir dan kondisi fisik terkini belum terverifikasi."
+        }
+      },
+      "kronologi_kehilangan": {
+        "material_objek_hilang": "Dilaporkan ada satu buah lonceng kecil yang semula digantung di bagian atas susunan koleksi dalam catatan kasus kehilangan.",
+        "nomor_inventaris_objek_hilang": "218/BKL/2008",
+        "jumlah_hilang": 1,
+        "objek_yang_tidak_hilang": "Lonceng besar nomor inventaris 217/BKL/2008 dengan nomor inventaris museum 431/00 masih ada berdasarkan informasi yang tersedia.",
+        "tanggal_kehilangan_dilaporkan": "4 Agustus 2025.",
+        "waktu_diketahui": "Sekitar pukul 09.30 WIB pada tanggal 4 Agustus 2025. Waktu ini merujuk pada keterangan waktu pelaporan atau diketahuinya pertama kali kehilangan.",
+        "tanggal_laporan_kepolisian": "4 Agustus 2025, sebagaimana disebut dalam pemberitaan pada Oktober 2025.",
+        "lokasi": "Museum Cakraningrat, Kabupaten Bangkalan, Jawa Timur.",
+        "riwayat_pameran": "Menurut catatan wawancara, lonceng kecil pernah dibawa ke pameran di Pamekasan sebelum dilaporkan hilang. Rincian waktu pemindahan dan pengembalian perlu dicocokkan dengan dokumentasi museum.",
+        "pengungkapan_kasus": "Kasus pencurian koleksi museum terungkap pada Oktober 2025 setelah seorang terduga pelaku ditangkap dalam penanganan kasus pencurian lain di Bangkalan.",
+        "alur_penjualan_menurut_keterangan_kasus": "Menurut catatan wawancara, barang curian dijual kepada penadah di Bangkalan dan kemudian diteruskan ke Surabaya. Nilai penjualan sebesar Rp3.000.000 disebut untuk barang curian bersama artefak lain, sehingga tidak dapat dianggap sebagai harga khusus lonceng kecil saja.",
+        "status_terkini": "Lonceng kecil bernomor inventaris 218/BKL/2008 dilaporkan hilang dan keberadaan akhirnya belum terkonfirmasi. Dugaan bahwa barang telah dilebur belum terkonfirmasi secara resmi berdasarkan kepolisian sendangkan Lonceng besar bernomor inventaris 217/BKL/2008 masih ada di dalam museum Cakraningrat."
+      },
+      "aturan_penjelasan_ai": [
+        "Jika ditanya lonceng mana yang hilang, jawab lonceng kecil nomor inventaris 218/BKL/2008 sesuai dataset",
+        "Jika ditanya lonceng mana yang masih ada, jawab lonceng besar nomor inventaris 217/BKL/2008 sesuai dataset",
+        "Jika ditanya susunan awal, jelaskan bahwa lonceng kecil digantung di atas dan lonceng besar berdiri di lantai bagian bawah sesuai dataset.",
+        "Jika ditanya fungsi budaya, jelaskan lonceng digunakan untuk memanggil prajurit kerajaan sesuai dataset.",
+        "Jika ditanya periode sejarah, kaitkan tahun 1870 dengan inskripsi lonceng besar dan jelaskan bahwa lonceng sezaman dengan pemerintahan Raden Ismail sesuai dataset.",
+        "Nyatakan bahwa lonceng kecil dibuat pada tahun 1870 bersamaan dengan lonceng besar.",
+        "Jika ditanya apakah lonceng telah dilebur, jawab bahwa hal tersebut belum terkonfirmasi secara resmi dari kepolisian.",
+        "Jangan mengaitkan nilai Rp3.000.000 hanya dengan Lonceng kecil karena nilai tersebut disebut untuk barang curian bersama artefak lainnya.",
+        "Jika ditanya informasi tidak tersedia atau belum terverifikasi dalam dataset, nyatakan bahwa keterbatasan sumber dan jangan membuat detail baru."
+      ]
+    },
+    {
+      "artifact_id": "CAKRA_ART013",
+      "museum": "Museum Cakraningrat, Kabupaten Bangkalan",
+      "name": "Gamelan Se Lajing",
+      "vr_display_name": "Gamelan Se Lajing",
+      "profil_artefak": {
+        "kategori": "Perangkat alat musik tradisional kerajaan",
+        "deskripsi_umum": "Gamelan Se Lajing merupakan perangkat alat musik tradisional yang digunakan pada masa pemerintahan Tjakaradiningrat II atau Sultan Abdul Kadirun/Raden Cakra Adiningrat II (1815–1845) untuk pagelaran seni dan budaya di Pendopo Keraton Bangkalan serta untuk menyambut tamu-tamu penting.",
+        "asal_koleksi": "Aermata Ibu, Arosbaya",
+        "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+        "material": "Kayu dan perunggu",
+        "periode_sejarah": "Masa pemerintahan Tjakaradiningrat II atau Sultan Abdul Kadirun/Raden Cakra Adiningrat II, sekitar 1815–1845.",
+        "atribusi_sejarah": "Dikaitkan dengan periode pemerintahan Tjakaradiningrat II (1815–1845). Periode penggunaan yang dilaporkan tidak menjadi bukti pasti tahun pembuatan perangkat."
+      },
+      "sejarah_dan_nilai_budaya": {
+        "periode_sejarah": "Sekitar 1815–1845, berdasarkan laporan registrasi koleksi Museum Cakraningrat tahun 2008.",
+        "fungsi_budaya": "Digunakan untuk pagelaran seni dan budaya di Pendopo Keraton Bangkalan serta untuk menyambut tamu-tamu penting.",
+        "konteks_keraton": "Gamelan Se Lajing berkaitan dengan kegiatan seni pertunjukan dan penerimaan tamu di lingkungan Keraton Bangkalan.",
+        "nilai_sejarah": "Koleksi ini merepresentasikan tradisi musik, seni pertunjukan, dan kegiatan penerimaan tamu di lingkungan keraton.",
+        "batas_interpretasi": "Laporan inventaris tahun 2008 mencatat empat gong pada entri Gamelan Se Lajing, dan Lima entri saron lainnya."
+      },
+      "spesifikasi_fisik": {
+        "deskripsi_umum": "Perangkat musik tradisional dengan wadah kayu berkaki dua dan empat gong yang digantung. Wadah berwarna cokelat dengan motif sulur-suluran pada masing-masing tiang. Gong berbentuk silindris, polos, dan memiliki tonjolan bundar di bagian tengah yang disebut kenong dalam laporan.",
+        "bentuk": "Wadah kayu berkaki dua sebagai tempat menggantungkan empat gong. Masing-masing tiang memiliki motif sulur-suluran. Gong berbentuk silindris, polos, dengan tonjolan bundar pada bagian tengah.",
+        "ukuran_wadah": {
+          "panjang_cm": 216,
+          "lebar_cm": 7.5,
+          "tinggi_cm": 140
+        },
+        "ukuran_gong": {
+          "diameter_cm": "75–80",
+          "tinggi_cm": "15–18",
+          "tebal_cm": "1–1.5"
+        },
+        "jumlah_gong_tercatat": 4,
+        "warna": "Cokelat, berdasarkan laporan registrasi tahun 2008.",
+        "ornamen": "Motif sulur-suluran pada tiang wadah kayu; gong dilaporkan polos.",
+        "kondisi_sebelum_kehilangan": "Laporan registrasi tahun 2008 menyatakan kondisi wadah dan gong baik pada saat pendataan. Kondisi fisik terkini belum dapat dipastikan dari data yang tersedia.",
+        "nomor_inventaris": "244/BKL/2008, 244A/BKL/2008–244D/BKL/2008",
+        "status_data_inventaris": "Nomor inventaris, asal koleksi, bahan, ukuran, deskripsi fisik, dan kondisi saat pendataan mengacu pada laporan registrasi Museum Cakraningrat tahun 2008."
+      },
+      "inventory_2008": {
+        "inventory_number": "244/BKL/2008, 244A/BKL/2008–244D/BKL/2008",
+        "museum_inventory_number": "495/00, 331/00–334/00",
+        "lokasi_asal": "Aermata Ibu, Arosbaya",
+        "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+        "current_location": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+        "materials": "Kayu dan perunggu",
+        "quantity": 4,
+        "dimensions": {
+          "container": {
+            "length_cm": 216,
+            "width_cm": 7.5,
+            "height_cm": 140
+          },
+          "gong": {
+            "diameter_cm": "75–80",
+            "height_cm": "15–18",
+            "thickness_cm": "1–1.5"
+          }
+        },
+        "condition_at_registration": "Baik; wadah berwarna cokelat, berkaki dua, memiliki motif sulur-suluran pada tiang, dan menopang empat gong.",
+        "report_match_status": "Cocok dengan entri Gamelan Se Lajing dalam laporan registrasi koleksi Museum Cakraningrat tahun 2008."
+      },
+      "relasi_instrumen": {
+        "konsep": "Gamelan Se Lajing merupakan satu kesatuan ansambel (seperangkat) alat musik tradisional yang terdiri dari instrumen gong, dan saron sebagaimana ditelusuri berdasarkan Laporan Registrasi Koleksi tahun 2008.",
+        "dasar_penelusuran": "Lima entri saron dari laporan inventaris tahun 2008 memiliki jumlah bilah 12 + 7 + 7 + 7 + 7 = 40. Angka ini sama dengan jumlah bilah kuningan yang dilaporkan hilang pada 2025. Kesamaan jumlah menjadi petunjuk penelusuran, bukan bukti pasti identitas barang.",
+        "instrumen_yang_ditelusuri": [
+          {
+            "nama": "Saron Barung Se Lajing 1",
+            "nomor_inventaris": "253/BKL/2008, 253A/BKL/2008–253L/BKL/2008",
+            "jumlah_bilah_tercatat": 12,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 117 cm; lebar 13 cm; tinggi tertulis 30 m pada transkripsi dan perlu diperiksa kembali di sumber asli",
+            "ukuran_bilah": "Panjang 19,5–28 cm; lebar 4,5–7 cm",
+            "deskripsi": "Wadah berbentuk persegi panjang, ujung kanan dan kiri melingkar ke dalam, bermotif bunga teratai, berwarna cokelat, dan memiliki 12 bidang pukul. Bilah berbentuk persegi panjang tipis dengan bagian tengah cembung, satu lubang pada salah satu ujung, berwarna cokelat kehijau-hijauan. Kondisi tercatat baik.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari Se Lajing atau sebagai objek yang hilang."
+          },
+          {
+            "nama": "Saron Barung Se Lajing 2",
+            "nomor_inventaris": "254/BKL/2008, 254A/BKL/2008–254G/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 101 cm; lebar 18,5 cm; tinggi 29 cm",
+            "ukuran_bilah": "Panjang 26,5–31,5 cm; lebar 6,5–8 cm",
+            "deskripsi": "Wadah persegi panjang dengan ujung kanan dan kiri melingkar ke dalam, bermotif flora dan tumpal, berwarna cokelat, dan memiliki tujuh bidang pukul. Bilah berbentuk persegi panjang tipis dengan bagian tengah cembung dan satu lubang pada masing-masing ujung, berwarna cokelat kehijau-hijauan. Kondisi tercatat baik.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari Se Lajing atau sebagai objek yang hilang."
+          },
+          {
+            "nama": "Saron Demung Se Lajing 1",
+            "nomor_inventaris": "255/BKL/2008, 255A/BKL/2008–255G/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 119 cm; lebar 20 cm; tinggi 29 cm",
+            "ukuran_bilah": "Panjang 28–33 cm; lebar 8–9 cm",
+            "deskripsi": "Wadah persegi panjang dengan ujung kanan dan kiri melingkar ke dalam, bermotif flora dan tumpal, berwarna cokelat, dan memiliki tujuh bidang pukul. Bilah berbentuk persegi panjang tipis dengan bagian tengah cembung serta satu lubang pada masing-masing ujung, berwarna cokelat kehijau-hijauan. Kondisi tercatat baik.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari Se Lajing atau sebagai objek yang hilang."
+          },
+          {
+            "nama": "Saron Demung Se Lajing 2",
+            "nomor_inventaris": "256/BKL/2008, 256A/BKL/2008–256B/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 117 cm; lebar 24,5 cm; tinggi 32,5 cm",
+            "ukuran_bilah": "Panjang 28–32 cm; lebar 7,5–8 cm",
+            "deskripsi": "Wadah persegi panjang dengan ujung kanan dan kiri melingkar ke dalam, bermotif flora dan tumpal, berwarna cokelat, dan memiliki tujuh bidang pukul. Bilah berbentuk persegi panjang tipis dengan bagian tengah cembung serta satu lubang pada masing-masing ujung, berwarna cokelat kehijau-hijauan. Kondisi tercatat baik.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari Se Lajing atau sebagai objek yang hilang."
+          },
+          {
+            "nama": "Saron Barung Se Lajing 3",
+            "nomor_inventaris": "257/BKL/2008, 257A/BKL/2008–257G/BKL/2008",
+            "jumlah_bilah_tercatat": 7,
+            "lokasi_asal": "Aermata Ibu, Arosbaya",
+            "lokasi_sekarang": "Museum Cakraningrat, Jln. Soekarno-Hatta No. 39 A, Bangkalan, Madura",
+            "material": "Kayu dan perunggu",
+            "ukuran_wadah": "Panjang 102 cm; lebar 20 cm; tinggi 28,5 cm",
+            "ukuran_bilah": "Panjang 25,5–29 cm; lebar 7–7,5 cm",
+            "deskripsi": "Wadah persegi panjang dengan ujung kanan dan kiri melingkar ke dalam, bermotif flora dan tumpal, berwarna cokelat, dan memiliki tujuh bidang pukul. Bilah berbentuk persegi panjang tipis dengan bagian tengah cembung serta satu lubang pada masing-masing ujung, berwarna cokelat kehijau-hijauan. Kondisi tercatat baik.",
+            "status_keterkaitan": "Terkonfirmasi secara wawancara sebagai bagian dari Se Lajing atau sebagai objek yang hilang."
+          }
+        ],
+        "perhitungan_total": {
+          "saron_barung_panjang": 12,
+          "saron_barung_pendek": 7,
+          "saron_demung_1": 7,
+          "saron_demung_2": 7,
+          "saron_barung_3": 7,
+          "total_bilah_tercatat": 40
+        },
+        "status_kecocokan_jumlah": "Sesuai secara aritmetis dengan jumlah 40 bilah yang dilaporkan hilang pada 2025.",
+        "status_hubungan_dengan_se_lajing": "Terkonfirmasi secara wawancara bahwa kelima saron merupakan bagian dari Se Lajing atau bahwa bilah dari kelimanya merupakan bilah yang hilang."
+      },
+      "kronologi_kehilangan": {
+        "objek_hilang": "40 batang atau bilah logam kuningan yang menurut catatan wawancara merupakan bagian dari gamelan Se Lajing.",
+        "jumlah_hilang": 40,
+        "tanggal_kehilangan_dilaporkan": "4 Agustus 2025",
+        "waktu_diketahui": "Sekitar pukul 09.30 WIB. Waktu ini merujuk pada waktu pelaporan atau diketahuinya kehilangan, bukan waktu pasti terjadinya pencurian.",
+        "tanggal_laporan_kepolisian": "4 Agustus 2025, sebagaimana disebut dalam pemberitaan pada Oktober 2025.",
+        "lokasi": "Museum Cakraningrat, Kabupaten Bangkalan, Jawa Timur",
+        "pengungkapan_kasus": "Kasus pencurian koleksi museum terungkap pada Oktober 2025 setelah seorang terduga pelaku ditangkap dalam penanganan kasus pencurian lain di Bangkalan.",
+        "alur_penjualan_menurut_keterangan_kasus": "Menurut catatan wawancara, barang curian dijual melalui penadah di Bangkalan dan kemudian diteruskan ke Surabaya. Nilai penjualan Rp3.000.000 disebut untuk barang curian bersama artefak lain, sehingga tidak dapat dianggap sebagai harga khusus bilah Se Lajing.",
+        "status_terkini": "Bilah logam dilaporkan hilang dan keberadaan akhirnya belum terkonfirmasi. Dugaan bahwa barang telah dilebur belum terkonfirmasi secara resmi berdasarkan data yang tersedia.",
+        "keterkaitan_dengan_inventaris_saron": "Lima entri saron tahun 2008 memiliki total 40 bilah, sama dengan jumlah kehilangan yang dilaporkan. Belum tersedia bukti yang memastikan bahwa bilah dari lima entri tersebut merupakan bilah yang hilang."
+      },
+      "aturan_penjelasan_ai": [
+        "Jika ditanya sejarah Gamelan Se Lajing, jelaskan periode 1815–1845 M sesuai keterangan sejarah koleksi yang digunakan sesuai dataset.",
+        "Jika ditanya fungsi budaya, jelaskan penggunaannya untuk pagelaran seni budaya di Pendopo Keraton Bangkalan dan menyambut tamu agung berdasarkan catatan sejarah koleksi sesuai dataset.",
+        "Jika ditanya jumlah komponen yang hilang, jawab 40 batang atau bilah logam sesuai dataset.",
+        "Jangan menyatakan bahwa seluruh perangkat Gamelan Se Lajing hilang; informasi kehilangan merujuk pada 40 batang atau bilah logam dari instrumen saronnya sesuai dataset.",
+        "Jika ditanya apakah lonceng telah dilebur, jawab bahwa hal tersebut belum terkonfirmasi secara resmi dari kepolisian.",
+        "Jangan mengaitkan nilai Rp3.000.000 hanya dengan bilah Ratna Dumilah karena nilai tersebut disebut untuk barang curian bersama artefak lainnya.",
+        "Jika ditanya informasi tidak tersedia atau belum terverifikasi dalam dataset, nyatakan bahwa keterbatasan sumber dan jangan membuat detail baru.",
+        "Jika ditanya kecocokan jumlah 40 bilah dengan inventaris saron, jelaskan bahwa lima entri berjumlah 12 + 7 + 7 + 7 + 7 = 40, tetapi hubungan kelima entri dengan Se Lajing dan identitas barang yang hilang belum terkonfirmasi secara dokumenter."
+      ]
+    }
+  ],
+  "source_version": "1.2.0",
+  "rag_reading_guidelines": {
+    "tujuan": "Membantu sistem RAG menghubungkan informasi yang membahas artefak yang sama tanpa mencampur fakta, klaim wawancara, inferensi, dan informasi yang belum terverifikasi.",
+    "aturan_umum": [
+      "Gunakan artifact_id sebagai identitas utama setiap artefak. Nama tampilan, nama alternatif, dan nomor inventaris adalah istilah pencarian yang merujuk pada artefak atau komponennya sesuai konteks.",
+      "Jangan menyatukan informasi dari artefak berbeda hanya karena berada di museum yang sama atau memiliki peristiwa kehilangan pada tanggal yang sama.",
+      "Bedakan informasi dari laporan registrasi tahun 2008, wawancara, website museum, pemberitaan, dan hasil perhitungan. Jika sumber tidak dinyatakan dengan jelas, jangan mengarang sumbernya.",
+      "Pertahankan status epistemik: tercatat/didokumentasikan, dilaporkan menurut wawancara, inferensi berdasarkan kecocokan jumlah, atau belum terverifikasi. Kecocokan jumlah saja bukan bukti identitas objek.",
+      "Jika terdapat dua pernyataan yang tampak bertentangan, jangan menghapus salah satunya atau memilih salah satunya secara diam-diam. Jelaskan kedua catatan beserta konteks sumber dan nyatakan bahwa perlu verifikasi bila dataset belum menyelesaikannya.",
+      "Informasi kondisi pada tahun 2008 tidak otomatis menjelaskan kondisi terkini. Gunakan tanggal atau konteks waktu yang tersedia.",
+      "Jangan menganggap seluruh perangkat gamelan hilang jika catatan hanya menyebut bilah atau komponen tertentu.",
+      "Jika jawaban tidak didukung data, katakan bahwa informasi belum tersedia atau belum terverifikasi. Jangan melengkapi detail sejarah, ukuran, bahan, atau kronologi berdasarkan dugaan.",
+      "Angka dan satuan yang janggal dipertahankan sesuai transkripsi sumber, tetapi harus disebut perlu verifikasi; jangan memperbaikinya berdasarkan perkiraan.",
+      "Untuk pertanyaan relasi, jawab dengan menyebut nama ansambel, nama komponen, nomor inventaris, dasar hubungan, dan tingkat kepastian bila tersedia."
+    ],
+    "panduan_kasus_khusus": [
+      {
+        "topik": "Gamelan Ratna Dumilah",
+        "aturan": "Perlakukan Gamelan Ratna Dumilah sebagai satu ansambel dan instrumen yang tercantum pada relasi_instrumen sebagai komponen yang ditelusuri sesuai dataset."
+      },
+      {
+        "topik": "Kehilangan 27 bilah pada Ratna Dumilah",
+        "aturan": "Jumlah empat entri yang ditelusuri adalah 7 + 6 + 7 + 7 = 27. Dataset memuat keterangan wawancara mengenai hubungan bilah yang hilang dengan empat entri tersebut. Sampaikan bahwa hubungan itu berasal dari wawancara, bukan semata-mata hasil hitung; catatan inventaris Peking yang sudah enam bilah pada 2008 tetap dipertahankan."
+      },
+      {
+        "topik": "Susunan lonceng kuno",
+        "aturan": "Bedakan lonceng besar nomor inventaris 217/BKL/2008 dari lonceng kecil nomor inventaris 218/BKL/2008. Catatan menyebut lonceng kecil dilaporkan hilang dan lonceng besar masih ada. Tahun 1870 berasal dari inskripsi pada lonceng besar; Di website resminya dinyatakan tahun pembuatan lonceng kecil diperkirakan sama dengan lonceng besar karena dibuat bersamaan sesuai dataset."
+      },
+      {
+        "topik": "Gamelan Se Lajing",
+        "aturan": "Perlakukan Gamelan Se Lajing sebagai satu ansambel dan instrumen yang tercantum pada relasi_instrumen sebagai komponen yang ditelusuri sesuai dataset."
+      },
+      {
+        "topik": "Nilai penjualan dan dugaan peleburan",
+        "aturan": "Nilai Rp3.000.000 disebut untuk barang curian bersama artefak lain, bukan harga pasti hanya satu artefak/bilah saja. Dugaan peleburan belum terkonfirmasi secara resmi dari kepolisian, tetapi informasi penjualan dari pengakuannya pelaku yang mencuri."
+      }
+    ]
+  }
+}
