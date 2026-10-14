@@ -295,7 +295,7 @@ RIWAYAT PERCAKAPAN
 PERTANYAAN PENGUNJUNG
 {request.question}
 
-KONTEKS HASIL PENCARIAN
+KONTEN HASIL PENCARIAN SEMANTIK BGE-M3
 {context}
 
 Tulis jawaban pemandu museum yang jelas dan ringkas dalam Bahasa Indonesia."""
